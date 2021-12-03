@@ -1,2 +1,8 @@
 # Text-Predicter
-This program predicts the word the user wants to type. 
+
+This project was assigned by __Dr. Philip Kirlin__. 
+Dr. Kirlin provided a framework for the project. 
+
+This program implements a quicksort algorithm and a map based on a hashtable. It then uses them to autocomplete and autocorrect the user's input.
+
+It requires _stdlib.jar_ which was provided by Dr. Kirlin.
