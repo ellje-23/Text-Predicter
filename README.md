@@ -7,6 +7,6 @@ This program implements a quicksort algorithm and a map based on a hashtable. It
 
 It requires _stdlib.jar_ which was provided by Dr. Kirlin.
 
-To Run:
+__To Run:__
 1. Download the project 
 2. Run the 'SentimentAnalysis.java' file
