@@ -9,4 +9,4 @@ It requires _stdlib.jar_ which was provided by Dr. Kirlin.
 
 __To Run:__
 1. Download the project 
-2. Run the 'SentimentAnalysis.java' file
+2. Run the 'AutocorrectDemo.java' file
