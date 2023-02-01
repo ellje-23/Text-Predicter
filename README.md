@@ -9,6 +9,7 @@ It requires _stdlib.jar_ which was provided by Dr. Kirlin.
 
 __To Run:__
 1. Download the project 
-2. Run the 'AutocorrectDemo.java' file
-3. Use the 'small.txt' as the file 
-4. Enter any value for the hash table size
+2. Open the project on IntelliJ
+3. Run the 'AutocorrectDemo.java' file
+4. Use the 'small.txt' as the file 
+5. Enter any value for the hash table size
