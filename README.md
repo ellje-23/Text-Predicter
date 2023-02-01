@@ -7,7 +7,7 @@ This program implements a quicksort algorithm and a map based on a hashtable. It
 
 It requires _stdlib.jar_ which was provided by Dr. Kirlin.
 
-__To Run:__
+### To Run
 1. Download the project 
 2. Open the project on IntelliJ
 3. Run the 'AutocorrectDemo.java' file
